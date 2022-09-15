@@ -1,1 +1,1 @@
-ECHO is on.
+#get started
